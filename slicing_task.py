@@ -3,7 +3,7 @@ print(text[0:6:1])
 print(text[6:13:1])
 print(text[11:17:1])
 print(text[0:17:2])
-print(text[-1:-16:-2])
+print(text[-1:-18:-1])
 
 
 
